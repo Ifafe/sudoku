@@ -4,10 +4,7 @@ Bem-vindo ao meu projeto de Sudoku em Java!
 
 ## Sobre o Projeto
 
-Este é um jogo de Sudoku para console, desenvolvido por mim a partir de um fork do repositório original criado por José Luiz Abreu Cardoso Junior da DIO. O objetivo foi aprimorar e expandir as funcionalidades, tornando o jogo mais dinâmico e divertido para quem gosta de desafios lógicos.
-
-
-Brach main com jogo no terminal: https://github.com/digitalinnovationone/sudoku
+Este é um jogo de Sudoku para console, desenvolvido por mim a partir de um fork do repositório original criado por José Luiz Abreu Cardoso Junior(DIO). O objetivo foi aprimorar e expandir as funcionalidades, tornando o jogo mais dinâmico e divertido para quem gosta de desafios lógicos.
 
 ## Funcionalidades
 
@@ -25,8 +22,8 @@ Brach main com jogo no terminal: https://github.com/digitalinnovationone/sudoku
 
 ## Créditos
 
-- Projeto original por [Ifafe](https://github.com/Ifafe/sudoku)
-- Melhorias, randomização e interface por **[Seu Nome Aqui]**
+- Projeto original por [José Luiz Abreu Cardoso Junior](https://github.com/digitalinnovationone/sudoku)
+- Melhorias, randomização e interface por **[Domingos Ifafe]**
 
 ---
 
